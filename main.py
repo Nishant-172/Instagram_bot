@@ -1,0 +1,3 @@
+import instabot
+
+name = "Rahul"
