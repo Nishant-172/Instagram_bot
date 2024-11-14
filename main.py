@@ -1,3 +1,4 @@
+#SmartMailGuard Bot starts here devloped by nishant
 import re
 
 # Predefined list of common fake domains
